@@ -6,3 +6,4 @@ Use the following steps to create a consistent Python environment for running th
 
 
 # References
+https://github.com/CODAIT/covid-notebooks

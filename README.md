@@ -1,2 +1,2 @@
-# Covid19EDA
-This repo analyse Covid-19 data 
+# Covid19EDA (Under Construction)
+Jupyter notebook for Covid-19 data analysis
